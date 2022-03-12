@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/logotip4ik/frontend-mentor-article-preview)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Article Preview](https://frontend-mentor-article-preview-bogdankostyuk.vercel.app)
 
 ## My process
 

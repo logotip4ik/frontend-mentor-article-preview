@@ -1,0 +1,17 @@
+.attribution {
+  position: absolute;
+  left: 50%;
+  bottom: 0.125rem;
+
+  font-size: 0.85rem;
+  color: var(--desaturated-dark-blue);
+  text-align: center;
+
+  width: 100%;
+
+  transform: translate(-50%, -50%);
+
+  a {
+    color: currentColor;
+  }
+}
